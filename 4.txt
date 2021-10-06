@@ -1,1 +1,2 @@
 Clone test
+Pulled cloned text
